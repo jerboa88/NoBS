@@ -10,7 +10,7 @@ A dead simple build task runner for Node.js
 
 
 ## Installation
-Install with `npm install jerboa88/NoBS@release` for the latest version. The project is not on NPM at this time.
+Install with `npm install git+https://github.com/jerboa88/NoBS.git` for the latest version. The project is not on NPM at this time.
 
 
 ## Usage
