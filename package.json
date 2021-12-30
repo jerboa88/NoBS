@@ -1,0 +1,27 @@
+{
+  "name": "nobs",
+  "version": "1.0.0",
+  "description": "A dead simple build task runner for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerboa88/NoBS.git"
+  },
+  "keywords": [
+    "Node.js",
+    "build",
+    "script",
+    "job",
+    "task",
+    "runner"
+  ],
+  "author": "John Goodliff (jerboa88)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jerboa88/NoBS/issues"
+  },
+  "homepage": "https://github.com/jerboa88/NoBS"
+}
