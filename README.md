@@ -4,9 +4,13 @@
 [![](https://img.shields.io/github/license/jerboa88/NoBS.svg "Project license")](LICENSE)
 
 
-A dead simple build task runner for Node.js
+
 
 > This is an experimental project and there are likely a lot of bugs to be ironed out. I would recommend [Gulp](https://gulpjs.com/) as a more powerful, fleshed out alternative
+
+A dead simple build task runner for Node.js.
+
+Automate your build process by scheduling build tasks to be run either sequentially or concurrently using a simple array-based config object.
 
 
 ## Installation
@@ -72,7 +76,7 @@ Please see [test.js](test.js) for a complete example.
 
 
 ## Contributing
-This is an experimental project but input is welcome :) [SemVer](http://semver.org/) is used for versioning.
+This is an experimental project but input is welcome :). [SemVer](http://semver.org/) is used for versioning.
 
 
 ## License
