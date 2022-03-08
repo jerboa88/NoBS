@@ -1,16 +1,26 @@
-# NoBS - Node Build Script [Node.js module]
-![](https://img.shields.io/badge/type-Node.js-brightgreen.svg "Project type")
-![](https://img.shields.io/github/repo-size/jerboa88/NoBS.svg "Repository size")
-[![](https://img.shields.io/github/license/jerboa88/NoBS.svg "Project license")](LICENSE)
+<!-- Project Header -->
+<div align="center"> 
+  <h1 class="projectName">NoBS - Node Build Script</h1>
 
-
+  <p class="projectBadges">
+    <img src="https://img.shields.io/badge/type-Node.js_Module-4caf50.svg" alt="Project type" title="Project type">
+    <img src="https://img.shields.io/github/languages/top/jerboa88/NoBS.svg" alt="Language" title="Language">
+    <img src="https://img.shields.io/github/repo-size/jerboa88/NoBS.svg" alt="Repository size" title="Repository size">
+    <a href="LICENSE">
+      <img src="https://img.shields.io/github/license/jerboa88/NoBS.svg" alt="Project license" title="Project license"/>
+    </a>
+  </p>
+  
+  <p class="projectDesc">
+    A dead simple build task runner for Node.js.<br/><br/>
+	Automate your build process by scheduling build tasks to be run either sequentially or concurrently using a simple array-based config object.
+  </p>
+  
+  <br/>
+</div>
 
 
 > This is an experimental project and there are likely a lot of bugs to be ironed out. I would recommend [Gulp](https://gulpjs.com/) as a more powerful, fleshed out alternative
-
-A dead simple build task runner for Node.js.
-
-Automate your build process by scheduling build tasks to be run either sequentially or concurrently using a simple array-based config object.
 
 
 ## Installation
