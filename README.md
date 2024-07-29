@@ -11,7 +11,7 @@
     </a>
   </p>
   
-  <p class="projectDesc">
+  <p class="projectDesc" data-exposition="An experimental build task runner for Node.js that allows you to schedule tasks to be run either sequentially or concurrently using a simple array-based config object. Created as a way to explore build optimization using JavaScript promises.">
     A dead simple build task runner for Node.js.<br/><br/>
 	Automate your build process by scheduling build tasks to be run either sequentially or concurrently using a simple array-based config object.
   </p>
