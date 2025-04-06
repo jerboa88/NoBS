@@ -1,0 +1,13 @@
+{
+  "$schema": "https://johng.io/schema/project-metadata.json",
+  "name": "NoBS",
+  "tagline": "Node Build Script",
+  "background": "An experimental build task runner for Node.js that allows you to schedule tasks to be run either sequentially or concurrently using a simple array-based config object. Created as a way to explore build optimization using JavaScript promises.",
+	"category": "Library",
+	"subcategory": "Node",
+  "schema": {
+    "type": "Software",
+    "applicationCategory": "Developer",
+    "operatingSystem": "Any"
+  }
+}
