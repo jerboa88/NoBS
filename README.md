@@ -3,7 +3,7 @@
   <h1 class="projectName">NoBS - Node Build Script</h1>
 
   <p class="projectBadges">
-    <img src="https://img.shields.io/badge/type-Node.js_Module-4caf50.svg" alt="Project type" title="Project type">
+    <img src="https://johng.io/badges/category/Library.svg" alt="Project category" title="Project category">
     <img src="https://img.shields.io/github/languages/top/jerboa88/NoBS.svg" alt="Language" title="Language">
     <img src="https://img.shields.io/github/repo-size/jerboa88/NoBS.svg" alt="Repository size" title="Repository size">
     <a href="LICENSE">
