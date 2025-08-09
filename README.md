@@ -2,7 +2,7 @@
 <div align="center"> 
   <h1 class="projectName">NoBS - Node Build Script</h1>
 
-  <p class="projectBadges">
+  <p class="projectBadges info">
     <img src="https://johng.io/badges/category/Library.svg" alt="Project category" title="Project category">
     <img src="https://img.shields.io/github/languages/top/jerboa88/NoBS.svg" alt="Language" title="Language">
     <img src="https://img.shields.io/github/repo-size/jerboa88/NoBS.svg" alt="Repository size" title="Repository size">
@@ -10,18 +10,29 @@
       <img src="https://img.shields.io/github/license/jerboa88/NoBS.svg" alt="Project license" title="Project license"/>
     </a>
   </p>
+  <p class="projectBadges status">
+    <a href="https://unmaintained.tech/">
+		<img src="https://unmaintained.tech/badge.svg" alt="No Maintenance Intended" title="No Maintenance Intended"/>
+	</a>
+ 	<img src="https://img.shields.io/badge/Experimental-%E2%9A%A0%EF%B8%8E-ca8a04.svg" alt="Experimental" title="Experimental"/>
+  </p>
   
   <p class="projectDesc">
-    A dead simple build task runner for Node.js.<br/><br/>
-	Automate your build process by scheduling build tasks to be run either sequentially or concurrently using a simple array-based config object.
+    A dead simple build task runner for Node.js.
   </p>
   
   <br/>
 </div>
 
 
-> This is an experimental project and there are likely a lot of bugs to be ironed out. I would recommend [Gulp](https://gulpjs.com/) as a more powerful, fleshed out alternative
+> [!IMPORTANT]
+> I've marked this project as [UNMAINTAINED](https://unmaintained.tech/) because it hasn't seen an update in a while. You can still fork/download/use this project at your own risk, but I won't be able to provide support or updates.
 
+> [!WARNING]
+> This is currently an experimental project or proof-of-concept. It may contain bugs or incomplete features, and is not intended for production use. Breaking changes may be made at any time. I would recommend [Gulp](https://gulpjs.com/) as a more powerful, fleshed out alternative.
+
+## About
+Automate your build process by scheduling build tasks to be run either sequentially or concurrently using a simple array-based config object.
 
 ## Installation
 Install with `npm install git+https://github.com/jerboa88/NoBS.git` for the latest version. The project is not on NPM at this time.
