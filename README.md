@@ -31,14 +31,16 @@
 > [!WARNING]
 > This is currently an experimental project or proof-of-concept. It may contain bugs or incomplete features, and is not intended for production use. Breaking changes may be made at any time. I would recommend [Gulp](https://gulpjs.com/) as a more powerful, fleshed out alternative.
 
-## About
+
+## 👋 About
 Automate your build process by scheduling build tasks to be run either sequentially or concurrently using a simple array-based config object.
 
-## Installation
+
+## 📦 Installation
 Install with `npm install git+https://github.com/jerboa88/NoBS.git` for the latest version. The project is not on NPM at this time.
 
 
-## Usage
+## 🕹️ Usage
 
 1. Import the module with:
 ```Javascript
@@ -96,11 +98,11 @@ noBS.run()
 Please see [test.js](test.js) for a complete example.
 
 
-## Contributing
+## 🤝 Contributing
 This is an experimental project but input is welcome :). [SemVer](http://semver.org/) is used for versioning.
 
 
-## License
+## 🧾 License
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 
