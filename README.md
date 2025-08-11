@@ -29,7 +29,7 @@
 > I've marked this project as [UNMAINTAINED](https://unmaintained.tech/) because it hasn't seen an update in a while. You can still fork/download/use this project at your own risk, but I won't be able to provide support or updates.
 
 > [!WARNING]
-> This is currently an experimental project or proof-of-concept. It may contain bugs or incomplete features, and is not intended for production use. Breaking changes may be made at any time. I would recommend [Gulp](https://gulpjs.com/) as a more powerful, fleshed out alternative.
+> This is currently an experimental project or proof-of-concept. It may contain bugs or incomplete features, and is not intended for production use. Breaking changes may be made at any time. I would recommend [Gulp] as a more powerful, fleshed out alternative.
 
 
 ## 👋 About
@@ -99,11 +99,15 @@ Please see [test.js](test.js) for a complete example.
 
 
 ## 🤝 Contributing
-This is an experimental project but input is welcome :). [SemVer](http://semver.org/) is used for versioning.
+This is an experimental project but input is welcome :).
 
 
 ## 🧾 License
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
+
+## 🖇️ Related
+**[Gulp]**: A toolkit to automate & enhance your workflow. Write individual, focused tasks and compose them into larger operations, providing you with speed and accuracy while reducing repetition.
 
 
 ## 💕 Funding
@@ -119,3 +123,5 @@ If you can't donate but still want to contribute, don't worry. There are many ot
 - ⭐ starring the project
 
 I appreciate the support!
+
+[Gulp]: https://gulpjs.com/
